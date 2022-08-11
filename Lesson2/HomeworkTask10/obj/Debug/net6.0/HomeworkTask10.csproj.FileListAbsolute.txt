@@ -1,0 +1,15 @@
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\bin\Debug\net6.0\HomeworkTask10.exe
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\bin\Debug\net6.0\HomeworkTask10.deps.json
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\bin\Debug\net6.0\HomeworkTask10.runtimeconfig.json
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\bin\Debug\net6.0\HomeworkTask10.dll
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\bin\Debug\net6.0\HomeworkTask10.pdb
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\HomeworkTask10.csproj.AssemblyReference.cache
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\HomeworkTask10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\HomeworkTask10.AssemblyInfoInputs.cache
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\HomeworkTask10.AssemblyInfo.cs
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\HomeworkTask10.csproj.CoreCompileInputs.cache
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\HomeworkTask10.dll
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\refint\HomeworkTask10.dll
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\HomeworkTask10.pdb
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\HomeworkTask10.genruntimeconfig.cache
+C:\Users\SkillEt\Desktop\Homework C#\Lesson2\HomeworkTask10\obj\Debug\net6.0\ref\HomeworkTask10.dll
