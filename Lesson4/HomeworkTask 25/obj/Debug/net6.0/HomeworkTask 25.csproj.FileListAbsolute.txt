@@ -1,0 +1,15 @@
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\bin\Debug\net6.0\HomeworkTask 25.exe
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\bin\Debug\net6.0\HomeworkTask 25.deps.json
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\bin\Debug\net6.0\HomeworkTask 25.runtimeconfig.json
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\bin\Debug\net6.0\HomeworkTask 25.dll
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\bin\Debug\net6.0\HomeworkTask 25.pdb
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\HomeworkTask 25.csproj.AssemblyReference.cache
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\HomeworkTask 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\HomeworkTask 25.AssemblyInfoInputs.cache
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\HomeworkTask 25.AssemblyInfo.cs
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\HomeworkTask 25.csproj.CoreCompileInputs.cache
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\HomeworkTask 25.dll
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\refint\HomeworkTask 25.dll
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\HomeworkTask 25.pdb
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\HomeworkTask 25.genruntimeconfig.cache
+C:\Users\SkillEt\Desktop\Homework C#\Lesson 4\HomeworkTask 25\obj\Debug\net6.0\ref\HomeworkTask 25.dll
