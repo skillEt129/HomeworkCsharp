@@ -3,13 +3,13 @@
 
 // b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
-Console.Write("input k1: ");
+Console.Write("Введите k1: ");
 var k1 = Convert.ToDouble(Console.ReadLine());
-Console.Write("input b1: ");
+Console.Write("Введите b1: ");
 var b1 = Convert.ToDouble(Console.ReadLine());
-Console.Write("input k2: ");
+Console.Write("Введите k2: ");
 var k2 = Convert.ToDouble(Console.ReadLine());
-Console.Write("input b2: ");
+Console.Write("Введите b2: ");
 var b2 = Convert.ToDouble(Console.ReadLine());
  
  
