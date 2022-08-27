@@ -13,6 +13,6 @@ string NUMBERS(int num)
     result = new string (result.Reverse().ToArray());
     return  result;
 }
-Console.Write("Input number to convert in NUMBERS: ");
+Console.Write("Введите десятичное число: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine($"Your number in the binary numeral system = {NUMBERS(num2)}");
+Console.WriteLine($"Двоичное число = {NUMBERS(num2)}");
