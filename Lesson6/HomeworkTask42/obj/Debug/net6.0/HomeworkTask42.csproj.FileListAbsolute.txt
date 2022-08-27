@@ -1,0 +1,15 @@
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\bin\Debug\net6.0\HomeworkTask42.exe
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\bin\Debug\net6.0\HomeworkTask42.deps.json
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\bin\Debug\net6.0\HomeworkTask42.runtimeconfig.json
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\bin\Debug\net6.0\HomeworkTask42.dll
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\bin\Debug\net6.0\HomeworkTask42.pdb
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\HomeworkTask42.csproj.AssemblyReference.cache
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\HomeworkTask42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\HomeworkTask42.AssemblyInfoInputs.cache
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\HomeworkTask42.AssemblyInfo.cs
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\HomeworkTask42.csproj.CoreCompileInputs.cache
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\HomeworkTask42.dll
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\refint\HomeworkTask42.dll
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\HomeworkTask42.pdb
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\HomeworkTask42.genruntimeconfig.cache
+C:\Users\SkillEt\Desktop\qwe\HomeworkCsharp\Lesson6\HomeworkTask42\obj\Debug\net6.0\ref\HomeworkTask42.dll
